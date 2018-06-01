@@ -21,4 +21,3 @@ public:
 	void warning(const char* message);
 	void info(const char* message);
 };
-
